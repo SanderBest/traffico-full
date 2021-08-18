@@ -18,3 +18,4 @@
   - страница добавлена на GitHub
 
 Ссылка: https://sanderbest.github.io/traffico-full/
+![YRz56TZIJthbXYkS](https://user-images.githubusercontent.com/61217980/129896618-4c61a6a3-9182-4d0c-985a-8ed3130b6c59.png)
